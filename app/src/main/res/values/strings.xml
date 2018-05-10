@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Oscar</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="text_input_error">Enter Valid</string>
+    <string name="name_input_error">Enter Valid Name</string>
+    <string name="mobile_input_error">Enter Valid Mobile</string>
+    <string name="password_input_error">Enter Valid Password</string>
+    <string name="email_input_error">Enter Valid Email Address</string>
+    <string name="wrong_password">Wrong Password</string>
+    <string name="login">Login</string>
+    <string name="name_hint">Full Name</string>
+    <string name="address_hint">Address</string>
+    <string name="mobile_hint">Mobile Number</string>
+    <string name="re_password">Re-Type Password</string>
+    <string name="forget_pass">Forget Password</string>
+    <string name="register">Register</string>
+    <string name="have_account">I have account</string>
+    <string name="have_no_account">I don\'t have account</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
